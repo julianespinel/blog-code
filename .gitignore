@@ -1,0 +1,4 @@
+# IDEs and editors
+.vscode/
+# Haskell
+.stack-work/
