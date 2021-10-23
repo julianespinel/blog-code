@@ -2,3 +2,6 @@
 .vscode/
 # Haskell
 .stack-work/
+
+# Python
+__pycache__
